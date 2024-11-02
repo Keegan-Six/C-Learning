@@ -1,7 +1,13 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 using System.ComponentModel.DataAnnotations;
+using System.Dynamic;
+using System.Security.AccessControl;
 
+/* Resources
+   https://www.w3schools.com/cs/index.php (14+)
+   https://www.learncs.org/en/Welcome (1-13)
+*/
 public class Hello
 {
     //variables
@@ -13,7 +19,7 @@ public class Hello
     char myChar = 'a';
     double myDouble = 1.75;
     */
-    
+
 // enum is a class used to reprsent a group of constants, for 3
 public enum CarType
 {
@@ -34,10 +40,10 @@ class Car {
     bool runs = true;
 
 }
-// Class for 13 and 14
+// Class for 13
 class Shape{
     public string Type;
-    private int Sides;
+    public int Sides;
     public int Sidelength;
     public double Area;  
     public Shape(string type, int sides, int sidelength, double area){
@@ -46,12 +52,54 @@ class Shape{
         Sidelength = sidelength;
         Area = area;
   }
-    public int GetSides() {
-        return Sides;
-    }
-    public void SetSides(int value) {
-        Sides = value;
-    }
+}
+// Class for 14
+class Person
+{
+  private string name; // field
+  public string Name   // property
+  {
+    get { return name; }
+    set { name = value; }
+  }
+}
+// Vehicle and Car for 15
+class Vehicle  // base class (parent) 
+{
+  public string brand = "Ford";  // Vehicle field
+  public void honk()             // Vehicle method 
+  {                    
+    Console.WriteLine("Tuut, tuut!");
+  }
+}
+class Car2 : Vehicle  // derived class (child)
+{
+  public string modelName = "Mustang";  // Car2 field
+}
+// Animals for 16
+// virtual keyword + overide command allows child classes to overide base methods
+class Animal  // Base class (parent) 
+{
+  public virtual void animalSound() 
+  {
+    Console.WriteLine("The animal makes a sound");
+  }
+}
+
+class Pig : Animal  // Derived class (child) 
+{
+  public override void animalSound() 
+  {
+    Console.WriteLine("The pig says: wee wee");
+  }
+}
+
+class Dog : Animal  // Derived class (child) 
+{
+  public override void animalSound() 
+  {
+    Console.WriteLine("The dog says: bow wow");
+  }
 }
     public static void Main()
     {
@@ -165,6 +213,26 @@ class Shape{
         Console.WriteLine("A {0} with {1} sides of length {2} has an area of {3}", triangle.Type, triangle.Sides, triangle.Sidelength, triangle.Area);
 
         // 14 Class Properties
+        Person Keegan = new Person();
+        Keegan.Name = "Keegan";
+        Console.WriteLine(Keegan.Name);
+        
+        // 15 Inheritance
+        Car2 myCar = new Car2();
+        myCar.honk();
+        Console.WriteLine(myCar.brand + " " + myCar.modelName);
+
+        // 16 Polymorphism
+        Animal myAnimal = new Animal();  // Create a Animal object
+        Animal myPig = new Pig();  // Create a Pig object
+        Animal myDog = new Dog();  // Create a Dog object
+
+        myAnimal.animalSound();
+        myPig.animalSound();
+        myDog.animalSound();
+
+        // check C-Learn2 for more
+
 
   }
 }

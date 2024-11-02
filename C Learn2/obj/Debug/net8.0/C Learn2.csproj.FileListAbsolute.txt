@@ -1,0 +1,15 @@
+d:\Visual Studio Files\Git\C-Learning\C Learn2\bin\Debug\net8.0\C Learn2.exe
+d:\Visual Studio Files\Git\C-Learning\C Learn2\bin\Debug\net8.0\C Learn2.deps.json
+d:\Visual Studio Files\Git\C-Learning\C Learn2\bin\Debug\net8.0\C Learn2.runtimeconfig.json
+d:\Visual Studio Files\Git\C-Learning\C Learn2\bin\Debug\net8.0\C Learn2.dll
+d:\Visual Studio Files\Git\C-Learning\C Learn2\bin\Debug\net8.0\C Learn2.pdb
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\C Learn2.GeneratedMSBuildEditorConfig.editorconfig
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\C Learn2.AssemblyInfoInputs.cache
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\C Learn2.AssemblyInfo.cs
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\C Learn2.csproj.CoreCompileInputs.cache
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\C Learn2.sourcelink.json
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\C Learn2.dll
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\refint\C Learn2.dll
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\C Learn2.pdb
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\C Learn2.genruntimeconfig.cache
+d:\Visual Studio Files\Git\C-Learning\C Learn2\obj\Debug\net8.0\ref\C Learn2.dll
