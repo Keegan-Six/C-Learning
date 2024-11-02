@@ -12,3 +12,4 @@ d:\Visual Studio Files\Git\C-Learning\obj\Debug\net8.0\refint\C-Learning.dll
 d:\Visual Studio Files\Git\C-Learning\obj\Debug\net8.0\C-Learning.pdb
 d:\Visual Studio Files\Git\C-Learning\obj\Debug\net8.0\C-Learning.genruntimeconfig.cache
 d:\Visual Studio Files\Git\C-Learning\obj\Debug\net8.0\ref\C-Learning.dll
+d:\Visual Studio Files\Git\C-Learning\obj\Debug\net8.0\C-Learning.sourcelink.json
