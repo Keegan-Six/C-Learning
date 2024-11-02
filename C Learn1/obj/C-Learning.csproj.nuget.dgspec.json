@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\C-Learning.csproj": {}
+    "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\C-Learning.csproj": {}
   },
   "projects": {
-    "d:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\C-Learning.csproj": {
+    "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\C-Learning.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\C-Learning.csproj",
+        "projectUniqueName": "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\C-Learning.csproj",
         "projectName": "C-Learning",
-        "projectPath": "d:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\C-Learning.csproj",
+        "projectPath": "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\C-Learning.csproj",
         "packagesPath": "C:\\Users\\Keegan\\.nuget\\packages\\",
-        "outputPath": "d:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\obj\\",
+        "outputPath": "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
