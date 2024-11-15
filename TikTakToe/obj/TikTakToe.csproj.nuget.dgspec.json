@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn2\\C Learn2.csproj": {}
+    "d:\\Visual Studio Files\\Git\\C-Learning\\TikTakToe\\TikTakToe.csproj": {}
   },
   "projects": {
-    "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn2\\C Learn2.csproj": {
+    "d:\\Visual Studio Files\\Git\\C-Learning\\TikTakToe\\TikTakToe.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn2\\C Learn2.csproj",
-        "projectName": "C Learn2",
-        "projectPath": "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn2\\C Learn2.csproj",
+        "projectUniqueName": "d:\\Visual Studio Files\\Git\\C-Learning\\TikTakToe\\TikTakToe.csproj",
+        "projectName": "TikTakToe",
+        "projectPath": "d:\\Visual Studio Files\\Git\\C-Learning\\TikTakToe\\TikTakToe.csproj",
         "packagesPath": "C:\\Users\\Keegan\\.nuget\\packages\\",
-        "outputPath": "D:\\Visual Studio Files\\Git\\C-Learning\\C Learn2\\obj\\",
+        "outputPath": "d:\\Visual Studio Files\\Git\\C-Learning\\TikTakToe\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\bin\Debug\net8.0\TikTakToe.exe
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\bin\Debug\net8.0\TikTakToe.deps.json
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\bin\Debug\net8.0\TikTakToe.runtimeconfig.json
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\bin\Debug\net8.0\TikTakToe.dll
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\bin\Debug\net8.0\TikTakToe.pdb
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\TikTakToe.GeneratedMSBuildEditorConfig.editorconfig
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\TikTakToe.AssemblyInfoInputs.cache
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\TikTakToe.AssemblyInfo.cs
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\TikTakToe.csproj.CoreCompileInputs.cache
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\TikTakToe.sourcelink.json
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\TikTakToe.dll
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\refint\TikTakToe.dll
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\TikTakToe.pdb
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\TikTakToe.genruntimeconfig.cache
+d:\Visual Studio Files\Git\C-Learning\TikTakToe\obj\Debug\net8.0\ref\TikTakToe.dll

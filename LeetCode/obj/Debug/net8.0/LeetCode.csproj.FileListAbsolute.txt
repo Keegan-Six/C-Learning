@@ -1,0 +1,5 @@
+d:\Visual Studio Files\Git\C-Learning\LeetCode\obj\Debug\net8.0\LeetCode.GeneratedMSBuildEditorConfig.editorconfig
+d:\Visual Studio Files\Git\C-Learning\LeetCode\obj\Debug\net8.0\LeetCode.AssemblyInfoInputs.cache
+d:\Visual Studio Files\Git\C-Learning\LeetCode\obj\Debug\net8.0\LeetCode.AssemblyInfo.cs
+d:\Visual Studio Files\Git\C-Learning\LeetCode\obj\Debug\net8.0\LeetCode.csproj.CoreCompileInputs.cache
+d:\Visual Studio Files\Git\C-Learning\LeetCode\obj\Debug\net8.0\LeetCode.sourcelink.json
